@@ -1,0 +1,18 @@
+# Binary/Package Files #
+bin
+target
+*.class
+*.jar
+*.war
+*.ear
+# Eclipse #
+.metadata
+.settings
+.classpath
+.project
+# IntelliJ #
+.idea
+*.iml
+#
+src/main/resources/*.properties
+src/main/resources/*.conf
